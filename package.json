@@ -14,6 +14,14 @@
     "eslint",
     "config"
   ],
+  "peerDependencies": {
+    "babel-eslint": "6.x.x",
+    "eslint-config-standard": "5.x.x",
+    "eslint-config-standard-react": "2.x.x",
+    "eslint-plugin-react": "5.x.x",
+    "eslint-plugin-promise": "1.x.x",
+    "eslint-plugin-standard": "1.x.x"
+  },
   "author": "bySabi Files",
   "license": "MIT",
   "bugs": {
