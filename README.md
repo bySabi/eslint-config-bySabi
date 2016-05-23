@@ -13,8 +13,8 @@ npm install --save-dev babel-eslint eslint-config-standard eslint-config-standar
 
 In your project's `.eslintrc`, use the `extends` feature:
 
-```js
+```json
 {
-  'extends': 'eslint-config-bysabi'
+  "extends": ["eslint-config-bysabi"]
 }
 ```
