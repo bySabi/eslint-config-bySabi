@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bySabi/eslint-config-bySabi.git"
+    "url": "git+https://github.com/bySabi/eslint-config-bysabi.git"
   },
   "keywords": [
     "eslint",
@@ -17,7 +17,7 @@
   "author": "bySabi Files",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bySabi/eslint-config-bySabi/issues"
+    "url": "https://github.com/bySabi/eslint-config-bysabi/issues"
   },
-  "homepage": "https://github.com/bySabi/eslint-config-bySabi#readme"
+  "homepage": "https://github.com/bySabi/eslint-config-bysabi#readme"
 }
