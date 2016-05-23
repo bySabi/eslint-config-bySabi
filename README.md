@@ -18,12 +18,3 @@ In your project's `.eslintrc`, use the `extends` feature:
   'extends': 'eslint-config-bysabi'
 }
 ```
-
-If you are using this in a project with React, extend the React configuration
-instead:
-
-```js
-{
-  'extends': 'eslint-config-bySabi/react'
-}
-```
