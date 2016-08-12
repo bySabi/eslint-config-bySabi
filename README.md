@@ -1,3 +1,5 @@
+# DEPRECATED - This package is deprecated in favor of [eslint-config-standard-deviation](https://github.com/bySabi/eslint-config-standard-deviation) and [eslint-config-standard-deviation--es5](https://github.com/bySabi/eslint-config-standard-deviation--es5)
+
 # bySabi ESLint configuration
 
 ## Install
